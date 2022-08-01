@@ -4,5 +4,4 @@ var interests = ['Programming', 'Cybersecurity', 'Physics', 'Mars', 'Hardware', 
 
 let learning = ['React', 'Gatsby', 'other stuff'];
 
-I keep a small portfolio website with contact info here: nicolasreboredo.com
 
